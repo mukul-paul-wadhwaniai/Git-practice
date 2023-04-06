@@ -5,3 +5,4 @@ Some text before pulling
 
 
 adding some text and checking pull --rebase agiain
+text before pull --rebase
