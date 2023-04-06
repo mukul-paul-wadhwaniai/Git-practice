@@ -1,1 +1,3 @@
 Text3 from branch 2
+
+Text added from github for checking git pull and git fetch
