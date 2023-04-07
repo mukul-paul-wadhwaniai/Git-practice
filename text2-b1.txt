@@ -1,3 +1,7 @@
 Text2 from branch 1.
 
+<<<<<<< HEAD
 added some text from b1
+=======
+added some text from b2
+>>>>>>> 43e6fa2 (commit1 b2)
